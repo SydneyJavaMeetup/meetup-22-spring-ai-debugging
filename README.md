@@ -3,7 +3,18 @@
 We had two awesome talks:
 
 # Kim Horn on Spring AI:
-Details to follow...
+
+My public presentations are all here:
+https://github.com/hornkim/public-presentations
+ 
+The Java Meetup presentation PDF is this one:
+AI-SPRING-SHORT-2025.pdf
+ 
+The examples for the talk are here:
+https://github.com/hornkim/examples
+ 
+The Spring-AI reference page
+https://docs.spring.io/spring-ai/reference/
 
 # Burin Choomnuan on Clojure and Remote Debugging
 ## Interactive Debugging with Clojure
