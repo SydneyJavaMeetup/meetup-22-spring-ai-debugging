@@ -4,6 +4,8 @@ We had two awesome talks:
 
 # Kim Horn on Spring AI:
 
+Microsoft and Google have stated that today Java is the best language for developing AI based Applications. Recently, Spring has developed an application framework that tackles the AI integration problem, providing portable service abstractions to the majority of LLM vendors, such as OpenAI, Microsoft, Amazon, Google, Hugging Face and Ollama. The Framework includes ETL, data processing, PDF extraction, advanced prompting, integrating with most vector stores such as Chroma, Neo4j, PineCone,PGVector etc. It supports a range of model types such as Chat, Embeddings, Image, Audio, Text to Speech, Moderation, and patterns like RAG and agents. The framework is at 1.0.0.SNAPSHOT.  The talk will introduce the framework with two live examples. 
+
 My public presentations are all here:
 https://github.com/hornkim/public-presentations
  
