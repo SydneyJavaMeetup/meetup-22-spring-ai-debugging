@@ -6,17 +6,10 @@ We had two awesome talks:
 
 Microsoft and Google have stated that today Java is the best language for developing AI based Applications. Recently, Spring has developed an application framework that tackles the AI integration problem, providing portable service abstractions to the majority of LLM vendors, such as OpenAI, Microsoft, Amazon, Google, Hugging Face and Ollama. The Framework includes ETL, data processing, PDF extraction, advanced prompting, integrating with most vector stores such as Chroma, Neo4j, PineCone,PGVector etc. It supports a range of model types such as Chat, Embeddings, Image, Audio, Text to Speech, Moderation, and patterns like RAG and agents. The framework is at 1.0.0.SNAPSHOT.  The talk will introduce the framework with two live examples. One is a PDF load and chat, the other is a Router Agent for customer support.
 
-My public presentations are all here:
-https://github.com/hornkim/public-presentations
- 
-The Java Meetup presentation PDF is this one:
-AI-SPRING-SHORT-2025.pdf
- 
-The examples for the talk are here:
-https://github.com/hornkim/examples
- 
-The Spring-AI reference page
-https://docs.spring.io/spring-ai/reference/
+- My public presentations are all here: https://github.com/hornkim/public-presentations
+- The Java Meetup presentation PDF is this one: AI-SPRING-SHORT-2025.pdf
+- The examples for the talk are here: https://github.com/hornkim/examples
+- The Spring-AI reference page https://docs.spring.io/spring-ai/reference/
 
 # Burin Choomnuan on Clojure and Remote Debugging
 ## Interactive Debugging with Clojure
